@@ -4,3 +4,10 @@
     gap: 2px;
     margin: 12px;
 }
+.main-container, h2, p{
+    text-align: center;
+}
+.suscribe-container{
+    text-align: center;
+    padding: 10px;
+}
